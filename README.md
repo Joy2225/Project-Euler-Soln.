@@ -1,0 +1,1 @@
+Just started with Project Euler for fun
