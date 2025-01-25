@@ -12,3 +12,4 @@ for i in range(1, 1000000):
     if is_palindrome(i) and is_palindrome_base2(i):
         res += i
 print(res)
+# 872187

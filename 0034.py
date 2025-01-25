@@ -10,3 +10,4 @@ for i in range(10, 7*362880):
     if i == sum(math.factorial(int(digit)) for digit in str(i)):
         res += i
 print(res)
+# 40730
