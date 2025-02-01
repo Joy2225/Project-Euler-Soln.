@@ -6,9 +6,6 @@
 # The goal is to find all eleven such primes (excluding single-digit primes 2, 3, 5, and 7)
 # and calculate their sum.
 
-start = [3,7]
-prime = [1,2,3,4,5,6,7,8,9]
-
 def is_prime(n):
     if n<2:
         return False
@@ -45,4 +42,3 @@ while(n!=0):
 
 print(sum)
 # 748317
-    
